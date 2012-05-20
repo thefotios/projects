@@ -1,0 +1,3 @@
+[submodule "uberconfig"]
+	path = uberconfig
+	url = git@github.com:fotioslindiakos/uberconfig.git
