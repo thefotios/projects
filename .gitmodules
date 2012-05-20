@@ -1,3 +1,6 @@
 [submodule "uberconfig"]
 	path = uberconfig
 	url = git@github.com:fotioslindiakos/uberconfig.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:fotioslindiakos/fotioslindiakos.ruhoh.com.git
