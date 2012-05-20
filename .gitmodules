@@ -4,3 +4,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:fotioslindiakos/fotioslindiakos.ruhoh.com.git
+[submodule "krampres"]
+	path = krampres
+	url = git@github.com:fotioslindiakos/krampres.git
